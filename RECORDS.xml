@@ -1,0 +1,66 @@
+<RECORDS>
+   <EMPLOYEE>
+      <ID>1</ID>
+      <NAME>Jonhnny</NAME>
+      <SALARY>215</SALARY>
+      <STARTDATE>9/23/2015</STARTDATE>
+      <DEPT>Operations</DEPT>
+   </EMPLOYEE>
+   
+    <EMPLOYEE>
+      <ID>2</ID>
+      <NAME>Allen</NAME>
+      <SALARY>723.3</SALARY>
+      <STARTDATE>3/5/2019</STARTDATE>
+      <DEPT>IT and Infrastructure</DEPT>
+   </EMPLOYEE>
+   
+   <EMPLOYEE>
+      <ID>3</ID>
+      <NAME>Fench</NAME>
+      <SALARY>890</SALARY>
+      <STARTDATE>11/15/2014</STARTDATE>
+      <DEPT>IT and Infrastructure</DEPT>
+   </EMPLOYEE>
+   
+   <EMPLOYEE>
+      <ID>4</ID>
+      <NAME>Patricia</NAME>
+      <SALARY>901.25</SALARY>
+      <STARTDATE>6/21/2017</STARTDATE>
+      <DEPT>Finance and Accounting</DEPT>
+   </EMPLOYEE>
+
+   <EMPLOYEE>
+      <ID>5</ID>
+      <NAME>Jennifer</NAME>
+      <SALARY>780</SALARY>
+      <STARTDATE>12/16/2016</STARTDATE>
+      <DEPT>HR Resource Management</DEPT>
+   </EMPLOYEE>
+   
+   <EMPLOYEE>
+      <ID>6</ID>
+      <NAME>George</NAME>
+      <SALARY>890</SALARY>
+      <STARTDATE>6/22/2018</STARTDATE>
+      <DEPT>IT and Infrastructure</DEPT>
+   </EMPLOYEE>
+   
+   <EMPLOYEE>
+      <ID>7</ID>
+      <NAME>Simon</NAME>
+      <SALARY>1045.6</SALARY>
+      <STARTDATE>7/30/2013</STARTDATE>
+      <DEPT>Operations</DEPT>
+   </EMPLOYEE>
+   
+   <EMPLOYEE>
+      <ID>8</ID>
+      <NAME>Crow</NAME>
+      <SALARY>752.6</SALARY>
+      <STARTDATE>4/12/2020</STARTDATE>
+      <DEPT>Finance and Accounting</DEPT>
+   </EMPLOYEE>
+	
+</RECORDS>
